@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Development on 郑梓欣的博客</title>
+    <link>https://yinghuaxixue.github.io/tags/development/</link>
+    <description>Recent content in Development on 郑梓欣的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright (c) 2017, 郑梓欣; all rights reserved.</copyright>
+    <lastBuildDate>Fri, 12 Jan 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://yinghuaxixue.github.io/tags/development/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>我和体重的二三事</title>
+      <link>https://yinghuaxixue.github.io/post/goisforlovers/</link>
+      <pubDate>Fri, 12 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://yinghuaxixue.github.io/post/goisforlovers/</guid>
+      <description>&lt;p&gt;昨天在微博上看到有个博主做了一个瘦身的实验视频，我突然也想把自己的经历拿出来回忆一下，也算某种方法的总结。回想过去的大学时光，我在体重秤上挣扎的日子居然可以回溯到大一入学期间。不过为什么经过18年之后我才会开始在意自己的体型这也是非常奇怪的事情了。&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

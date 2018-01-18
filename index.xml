@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>郑梓欣的博客</title>
+    <link>https://yinghuaxixue.github.io/</link>
+    <description>Recent content on 郑梓欣的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright (c) 2017, 郑梓欣; all rights reserved.</copyright>
+    <lastBuildDate>Fri, 12 Jan 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://yinghuaxixue.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>其二</title>
+      <link>https://yinghuaxixue.github.io/post/creating-a-new-theme/</link>
+      <pubDate>Fri, 12 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://yinghuaxixue.github.io/post/creating-a-new-theme/</guid>
+      <description>&lt;p&gt;经过油腻的大一之后，在大一的暑假我望着我的大肚子觉得不能再这样下去了，我必须要为我的减肥定一个详细的计划以此来鼓励自己完成自己的减肥大任，在于是我严格的按照自己的好吃懒做的要求在上个学期与肥肉展开了艰难的激动，我晚上和牛奶吃苹果再加上夜跑5圈，两周之后10圈，当时的我意气风发，虽然没有称过，但是我感觉到自己正在变瘦！&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>其四</title>
+      <link>https://yinghuaxixue.github.io/post/migrate-from-jekyll/</link>
+      <pubDate>Fri, 12 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://yinghuaxixue.github.io/post/migrate-from-jekyll/</guid>
+      <description>&lt;p&gt;回到最开始想写这些境况的原因上，看了微博博主的那关于有关自己的减肥研究的视频。视频里面提到一种减肥的方法，博主参考每周健身四小时这本书的内容进行的研究。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>其三</title>
+      <link>https://yinghuaxixue.github.io/post/hugoisforlovers/</link>
+      <pubDate>Fri, 12 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://yinghuaxixue.github.io/post/hugoisforlovers/</guid>
+      <description>&lt;p&gt;大二暑假结束随之而来，身材也没有过度的进化，也许是这次跑步量蛮大的，肥肉反弹的有那么一点点小慢，从现在来看也许那个时候还算过着规律的生活，所以如此。在进入大三之后也没有任何动力再去进行这项有益身心的活动，时间不等人，转眼来到大三下学期。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>我和体重的二三事</title>
+      <link>https://yinghuaxixue.github.io/post/goisforlovers/</link>
+      <pubDate>Fri, 12 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://yinghuaxixue.github.io/post/goisforlovers/</guid>
+      <description>&lt;p&gt;昨天在微博上看到有个博主做了一个瘦身的实验视频，我突然也想把自己的经历拿出来回忆一下，也算某种方法的总结。回想过去的大学时光，我在体重秤上挣扎的日子居然可以回溯到大一入学期间。不过为什么经过18年之后我才会开始在意自己的体型这也是非常奇怪的事情了。&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
